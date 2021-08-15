@@ -6,8 +6,12 @@ Data Science Project - Analysis from Udacity Nano Degree Project I
 
 ## Installation
 
-## Dataset
+Librariesrequired:
+- Python 3
+- Scikit-learn
+- Seaborn
 
+## Dataset
 
 Index(['id', 'name', 'popularity', 'duration_ms', 'explicit', 'artists',
        'id_artists', 'release_date', 'danceability', 'energy', 'key',
