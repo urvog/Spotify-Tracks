@@ -1,4 +1,4 @@
-# Spotify-Tracks
+# Analyzing Spotify Data Tracks - What makes a song a hit and popular?
 
 Data Science Project - Analysis from Udacity Nano Degree Project I
 
