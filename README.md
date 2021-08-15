@@ -4,6 +4,20 @@ Data Science Project - Analysis from Udacity Nano Degree Project I
 
 ## Motivation
 
+In this project we are going to carry out an analysis of the attributes of a Spotify dataset in order to know what makes a song become a hit.
+
+## Process
+
+For the development of this project we will be using the CRISP-DM methodology, which include the following stages.
+Business Understanding
+Data Understanding
+Prepare Data
+Data Modeling
+Evaluate the Results
+Deploy
+
+The 6 phases aren't necessary for all the projects; a lot of questions can be answered without building models. In this post, I will apply CRISP-DM steps 1,2,3,5, and 6 to the Data Set.
+
 ## Installation
 
 Librariesrequired:
