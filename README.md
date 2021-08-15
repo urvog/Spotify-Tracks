@@ -16,6 +16,13 @@ Data Modeling
 Evaluate the Results
 Deploy
 
+## Business Understanding
+
+1. What features are necessary for a song to become a hit?
+2. Is a song that sounds sadder or angry can be a hit??
+3. What features are necessary for a song to be danceable.
+4. Why Pink Floyd songs are not popular than the rest of the songs that are in the top?
+
 The 6 phases aren't necessary for all the projects; a lot of questions can be answered without building models. In this post, I will apply CRISP-DM steps 1,2,3,5, and 6 to the Data Set.
 
 ## Installation
