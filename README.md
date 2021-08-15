@@ -71,6 +71,12 @@ Index(['id', 'name', 'popularity', 'duration_ms', 'explicit', 'artists',
 - tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 - time_signature: An estimated overall time signature of a track. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure).
 
+## Medium Blogpost
+
+You can see the complete article here:
+
+<https://urvog.medium.com/analyzing-spotify-data-tracks-what-makes-a-song-a-hit-and-popular-5ef319272fde>
+
 ## Licensing
 
 This project is published in 2021 under [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) license.
