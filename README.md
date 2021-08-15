@@ -64,3 +64,4 @@ Index(['id', 'name', 'popularity', 'duration_ms', 'explicit', 'artists',
 
 ## Licensing
 
+This project is published in 2021 under [MIT] [https://es.wikipedia.org/wiki/Licencia_MIT] license.
