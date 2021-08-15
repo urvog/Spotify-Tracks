@@ -32,7 +32,7 @@ Librariesrequired:
 - Scikit-learn
 - Seaborn
 
-Because of github limitations to big data set files, download file from here:
+Because of github limitations to big dataset files, download the file from here:
 
 <https://drive.google.com/file/d/11KByNHm4jVtw1EjEHX7wU6g5XLu0icXh/view?usp=sharing>
 
