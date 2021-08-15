@@ -32,6 +32,15 @@ Librariesrequired:
 - Scikit-learn
 - Seaborn
 
+Because of github limitations to big data set files, download file from here:
+
+<https://drive.google.com/file/d/11KByNHm4jVtw1EjEHX7wU6g5XLu0icXh/view?usp=sharing>
+
+Create a new folder inside the project and name it "data"
+
+Paste the csv file to the data folder.
+
+
 ## Dataset
 
 Index(['id', 'name', 'popularity', 'duration_ms', 'explicit', 'artists',
